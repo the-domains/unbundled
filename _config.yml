@@ -1,28 +1,18 @@
-name: unbundled
-favicon: null
-layout_spectrum: 0.21161278430372477
-typography_spectrum: 0.735358928097412
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#98C8B0'
+    - '#00A050'
+    - '#68B090'
+    - '#C81838'
+    - '#F06860'
   brandStrength: 0.13809991953894496
   lightness: 0.5609033450018615
-  saturation: 0.3245078835170716
   rhythmicContrast: 0.6244354273658246
+  saturation: 0.3245078835170716
+cta: {}
+layout_spectrum: 0.21161278430372477
+name: unbundled
+opengraph: {}
 purpose: []
+typography_spectrum: 0.735358928097412
